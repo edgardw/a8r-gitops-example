@@ -1,0 +1,5 @@
+k8s_config:
+- manifest_path: /manifests
+  cluster_info:
+    cluster_id: cae01760-7c66-5c2f-83d6-1ae42dd02c36
+    cluster_name: edgarstaging's cluster
